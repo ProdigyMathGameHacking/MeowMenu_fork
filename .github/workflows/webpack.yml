@@ -31,7 +31,7 @@ jobs:
 
     - name: Build with pnpm
       run: |
-        pnpm install
+        pnpm install --force
         pnpm build
     - name: Commit with git
       run: |
