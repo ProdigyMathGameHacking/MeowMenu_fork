@@ -1,10 +1,8 @@
-name: Autobuild MeowMenu
+name: Better Dependabot
 
 on:
-  push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
+  schedule:
+    - cron: "0 0 * * *" # Supposedly at the end of every day.
   workflow_dispatch:
     
 
@@ -29,19 +27,18 @@ jobs:
       with:
         version: 7
 
-    - name: Build with pnpm
+    - name: Update dependencies
       run: |
-        pnpm install
-        pnpm build
+        pnpm update     
     - name: Commit with git
       run: |
         git pull
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
         git add .
-        git commit --allow-empty -s -m "AutoBuild MeowMenu"
+        git commit --allow-empty -s -m "Update dependencies"
     - name: Push changes to GitHub
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+        branch: ${{ github.ref }}        
