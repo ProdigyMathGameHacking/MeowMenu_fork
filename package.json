@@ -19,7 +19,7 @@
 		"redux": "^4.2.0",
 		"reflect-metadata": "^0.1.13",
 		"styled-components": "^5.3.6",
-		"sweetalert2": "^11.6.8",
+		"sweetalert2": "^11.6.9",
 		"sweetalert2-react-content": "^5.0.7",
 		"tiny-typed-emitter": "^2.1.0",
 		"typescript-memoize": "^1.1.1"
