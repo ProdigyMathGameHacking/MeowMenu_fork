@@ -18,7 +18,7 @@
 		"react-redux": "^8.0.5",
 		"redux": "^4.2.1",
 		"reflect-metadata": "^0.1.13",
-		"styled-components": "^5.3.6",
+		"styled-components": "^5.3.8",
 		"sweetalert2": "^11.7.3",
 		"sweetalert2-react-content": "^5.0.7",
 		"tiny-typed-emitter": "^2.1.0",
