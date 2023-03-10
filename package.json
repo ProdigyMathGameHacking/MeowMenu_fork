@@ -11,7 +11,7 @@
 		"@babel/preset-env": "^7.20.2",
 		"@types/react-redux": "^7.1.25",
 		"postcss": "^8.4.21",
-		"preact": "^10.13.0",
+		"preact": "^10.13.1",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"react-is": "^18.2.0",
