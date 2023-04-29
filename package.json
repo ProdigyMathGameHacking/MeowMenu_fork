@@ -7,8 +7,8 @@
 		"build": "webpack --config webpack.config.js"
 	},
 	"dependencies": {
-		"@babel/core": "^7.21.4",
-		"@babel/preset-env": "^7.21.4",
+		"@babel/core": "^7.21.5",
+		"@babel/preset-env": "^7.21.5",
 		"@types/react-redux": "^7.1.25",
 		"postcss": "^8.4.23",
 		"preact": "^10.13.2",
@@ -33,7 +33,7 @@
 		"css-loader": "^6.7.3",
 		"esbuild-plugin-alias": "^0.2.1",
 		"globby": "^13.1.4",
-		"postcss-loader": "^7.2.4",
+		"postcss-loader": "^7.3.0",
 		"postcss-preset-env": "^7.8.3",
 		"prodigy-types": "github:Prodigy-Hacking/Prodigy-Types",
 		"sass": "^1.62.1",
