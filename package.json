@@ -37,7 +37,7 @@
 		"postcss-preset-env": "^7.8.3",
 		"prodigy-types": "github:Prodigy-Hacking/Prodigy-Types",
 		"sass": "^1.62.1",
-		"sass-loader": "^13.2.2",
+		"sass-loader": "^13.3.0",
 		"style-loader": "^3.3.3",
 		"ts-essentials": "^9.3.2",
 		"ts-loader": "^9.4.2",
