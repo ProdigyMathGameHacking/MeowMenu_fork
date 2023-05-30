@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"@babel/core": "^7.22.1",
-		"@babel/preset-env": "^7.22.2",
+		"@babel/preset-env": "^7.22.4",
 		"@types/react-redux": "^7.1.25",
 		"postcss": "^8.4.24",
 		"preact": "^10.15.1",
@@ -19,7 +19,7 @@
 		"redux": "^4.2.1",
 		"reflect-metadata": "^0.1.13",
 		"styled-components": "^5.3.11",
-		"sweetalert2": "^11.7.6",
+		"sweetalert2": "^11.7.8",
 		"sweetalert2-react-content": "^5.0.7",
 		"tiny-typed-emitter": "^2.1.0",
 		"typescript-memoize": "^1.1.1"
