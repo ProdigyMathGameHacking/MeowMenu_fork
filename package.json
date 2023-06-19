@@ -32,7 +32,7 @@
 		"babel-loader": "^9.1.2",
 		"css-loader": "^6.8.1",
 		"esbuild-plugin-alias": "^0.2.1",
-		"globby": "^13.1.4",
+		"globby": "^13.2.0",
 		"postcss-loader": "^7.3.3",
 		"postcss-preset-env": "^7.8.3",
 		"prodigy-types": "github:Prodigy-Hacking/Prodigy-Types",
