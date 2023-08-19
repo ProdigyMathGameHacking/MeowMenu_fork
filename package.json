@@ -19,7 +19,7 @@
 		"redux": "^4.2.1",
 		"reflect-metadata": "^0.1.13",
 		"styled-components": "^5.3.11",
-		"sweetalert2": "^11.7.23",
+		"sweetalert2": "^11.7.25",
 		"sweetalert2-react-content": "^5.0.7",
 		"tiny-typed-emitter": "^2.1.0",
 		"typescript-memoize": "^1.1.1"
@@ -36,7 +36,7 @@
 		"postcss-loader": "^7.3.3",
 		"postcss-preset-env": "^7.8.3",
 		"prodigy-types": "github:Prodigy-Hacking/Prodigy-Types",
-		"sass": "^1.66.0",
+		"sass": "^1.66.1",
 		"sass-loader": "^13.3.2",
 		"style-loader": "^3.3.3",
 		"ts-essentials": "^9.3.2",
