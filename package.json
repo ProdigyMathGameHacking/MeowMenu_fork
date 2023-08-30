@@ -10,7 +10,7 @@
 		"@babel/core": "^7.22.11",
 		"@babel/preset-env": "^7.22.10",
 		"@types/react-redux": "^7.1.26",
-		"postcss": "^8.4.28",
+		"postcss": "^8.4.29",
 		"preact": "^10.17.1",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
