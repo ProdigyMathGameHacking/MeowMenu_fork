@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"@babel/core": "^7.22.11",
-		"@babel/preset-env": "^7.22.10",
+		"@babel/preset-env": "^7.22.14",
 		"@types/react-redux": "^7.1.26",
 		"postcss": "^8.4.29",
 		"preact": "^10.17.1",
