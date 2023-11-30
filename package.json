@@ -7,8 +7,8 @@
 		"build": "webpack --config webpack.config.js"
 	},
 	"dependencies": {
-		"@babel/core": "^7.23.3",
-		"@babel/preset-env": "^7.23.3",
+		"@babel/core": "^7.23.5",
+		"@babel/preset-env": "^7.23.5",
 		"@types/react-redux": "^7.1.31",
 		"postcss": "^8.4.31",
 		"preact": "^10.19.2",
