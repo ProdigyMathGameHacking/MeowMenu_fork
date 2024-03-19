@@ -11,7 +11,7 @@
 		"@babel/preset-env": "^7.24.0",
 		"@types/react-redux": "^7.1.33",
 		"postcss": "^8.4.36",
-		"preact": "^10.19.6",
+		"preact": "^10.19.7",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"react-is": "^18.2.0",
@@ -25,7 +25,7 @@
 		"typescript-memoize": "^1.1.1"
 	},
 	"devDependencies": {
-		"@types/react": "^18.2.66",
+		"@types/react": "^18.2.67",
 		"@types/react-dom": "^18.2.22",
 		"@types/styled-components": "5.1.26",
 		"@webpack-cli/init": "^1.1.3",
